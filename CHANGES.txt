@@ -6,6 +6,9 @@ Changelog
 
 - Use zope.interface decorator.
   [gforcada]
+  
+- Fixed CSRF protection bug on @@language-setup-folders view.
+  [syzn]
 
 
 4.1.4 (2016-02-17)
